@@ -1,0 +1,92 @@
+{
+    "name": "Pico Quantitative Trading",
+    "description": "",
+    "image": "http:\/\/kinlane-productions.s3.amazonaws.com\/api-evangelist-site\/company\/logos\/pull_image_10-12-2019-04-25-pm.png",
+    "tags": [
+        "financial",
+        "financial services",
+        "have api",
+        "market data",
+        "profile",
+        "trading"
+    ],
+    "created": "2019-12-19",
+    "modified": "2019-12-19",
+    "url": "https:\/\/raw.githubusercontent.com\/api-evangelist\/pico-quantitative-trading\/master\/apis.json",
+    "specificationVersion": "0.14",
+    "apis": [
+        {
+            "name": "Pico Quantitative Trading",
+            "description": null,
+            "image": "http:\/\/kinlane-productions.s3.amazonaws.com\/api-evangelist-site\/company\/logos\/pull_image_10-12-2019-04-25-pm.png",
+            "humanURL": "https:\/\/www.picotrading.com",
+            "baseURL": "",
+            "tags": [],
+            "properties": [
+                {
+                    "type": "x-openapi",
+                    "url": "https:\/\/raw.githubusercontent.com\/api-evangelist\/1forge\/master\/pico-quantitative-trading-openapi.json"
+                },
+                {
+                    "type": "x-postman-collecction",
+                    "url": "https:\/\/raw.githubusercontent.com\/api-evangelist\/1forge\/master\/pico-quantitative-trading-postman-collection.json"
+                }
+            ]
+        }
+    ],
+    "include": [],
+    "x-common": [
+        {
+            "type": "Crunchbase",
+            "url": "https:\/\/crunchbase.com\/organization\/pico-quantitative-trading"
+        },
+        {
+            "type": "Email",
+            "url": "careers.sales@picotrading.com"
+        },
+        {
+            "type": "Email",
+            "url": "careers@picotrading.com"
+        },
+        {
+            "type": "Email",
+            "url": "careers.hr@picotrading.com"
+        },
+        {
+            "type": "Email",
+            "url": "careers.infrastructure@picotrading.com"
+        },
+        {
+            "type": "Email",
+            "url": "careers.network@picotrading.com"
+        },
+        {
+            "type": "Email",
+            "url": "careers.uk@picotrading.com"
+        },
+        {
+            "type": "Email",
+            "url": "careers.development@picotrading.com"
+        },
+        {
+            "type": "Email",
+            "url": "careers.serviceops@picotrading.com"
+        },
+        {
+            "type": "Email",
+            "url": "careers.legal@picotrading.com"
+        },
+        {
+            "type": "Email",
+            "url": "careers.marketdata@picotrading.com"
+        },
+        {
+            "type": "Github",
+            "url": "https:\/\/github.com\/picotrading"
+        },
+        {
+            "type": "Website",
+            "url": "https:\/\/www.picotrading.com"
+        }
+    ]
+}
